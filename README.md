@@ -10,9 +10,10 @@ Türkçe\
 3.Ayarları düzeltmek için, JS dosyasındaki Properties objesini düzenleyebilirsiniz.\
 ![image](https://github.com/user-attachments/assets/813a2f13-afc4-45b4-9917-b2ee7061093b)
 \
-4.Onload.js dosyasının son kısmına bu scripti ekleyerek ADFS ortamınızda başarıyla aktifleştirebilirsiniz. İyi çalışmalar dilerim.
+4.Onload.js dosyasının son kısmına bu scripti ekleyerek ADFS ortamınızda başarıyla aktifleştirebilirsiniz. İyi çalışmalar dilerim.\
+\
 English\
-1.In the event that the specified conditions are not met, error values indicating failure will be returned for users.\\
+1.In the event that the specified conditions are not met, error values indicating failure will be returned for users.\
 ![image](https://github.com/user-attachments/assets/293641e5-1098-4944-824c-cf10ac7daec7)\
 \
 2.Once the conditions are met, the user will be able to submit their password through ADFS.\
